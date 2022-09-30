@@ -32,3 +32,4 @@ def test_example_2():
     assert output['100'] == 4
     assert output['Hello'] == 1
     assert 100 not in output.keys()
+
